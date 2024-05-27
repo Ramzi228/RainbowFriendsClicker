@@ -1,0 +1,2 @@
+Build path: /Users/ramildzafarli/Raibowfriends/Моя игра
+Build number: 16
